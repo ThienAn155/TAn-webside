@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <tittle> My Github Website </tittle>
+  </head>
+  <body>
+    <h1> Welcome to My Website </h1>
+    <p> This is a website hosted on Github Pages.</p>
+  </body>
+</html>
